@@ -1,0 +1,15 @@
+.cards {
+    justify-content: center;
+    align-items: center;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+/* 
+.cards div {
+  flex: 1 0 25%;
+}
+
+.card-img {
+  max-height: 200px;
+} */

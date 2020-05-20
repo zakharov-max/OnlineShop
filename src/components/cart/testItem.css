@@ -1,0 +1,50 @@
+.main {
+    display: flex;
+}
+
+.img-cart {
+    text-align: center;
+    align-self: center;
+    flex-basis: 20%;
+}
+
+.img-cart img {
+    max-width: 203px;
+    max-height: 203px;
+    width: auto;
+    height: auto;
+}
+.info-container.div {
+    padding: 0.5em;
+}
+.info {
+    flex-basis: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info-2 {
+    display: flex;
+    align-items: center;
+}
+
+.add {
+    flex-basis: 10%;
+    text-align: end;
+}
+
+.support-section {
+    flex-basis: 90%;
+}
+
+.section-border {
+    border-bottom: 1px solid #d6d6d6;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+
+.delivery {
+    display: flex;
+    justify-content: space-between;
+}
